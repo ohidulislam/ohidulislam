@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohidulislam
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on React/NextJs projects
 - 📫 How to reach me, sent a mail to ohidulislam.me@gmail.com
 
 <!---
